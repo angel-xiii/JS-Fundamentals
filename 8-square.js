@@ -1,4 +1,4 @@
-const arg = ProcessingInstruction.argv[2];
+const arg = process.argv[2];
 
 const size = Number.parseInt(arg);
 
